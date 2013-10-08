@@ -1,0 +1,11 @@
+D:\Users\Josh\My Documents\GitHub\Clobberation\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Users\Josh\My Documents\GitHub\Clobberation\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Users\Josh\My Documents\GitHub\Clobberation\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Users\Josh\My Documents\GitHub\Clobberation\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Users\Josh\My Documents\GitHub\Clobberation\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Users\Josh\My Documents\GitHub\Clobberation\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Users\Josh\My Documents\GitHub\Clobberation\obj\Debug\UnityVS.Clobberation.CSharp.csprojResolveAssemblyReference.cache
+D:\Users\Josh\My Documents\GitHub\Clobberation\obj\Debug\Assembly-CSharp.dll
+D:\Users\Josh\My Documents\GitHub\Clobberation\obj\Debug\Assembly-CSharp.pdb
+D:\Users\Josh\My Documents\GitHub\Clobberation\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.pdb
+D:\Users\Josh\My Documents\GitHub\Clobberation\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
